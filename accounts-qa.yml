@@ -1,0 +1,11 @@
+
+build:
+  version: 2.0
+accounts:
+  message: "Welcome to EazyBank Accounts QA APIS"
+  contactDetails:
+    name: "Sachin Bore"
+    email: "sachinbore@gmail.com"
+  phoneContact:
+    - 9182510534
+    - 9652653982

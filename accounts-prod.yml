@@ -1,0 +1,11 @@
+
+build:
+  version: 1.0
+accounts:
+  message: "Welcome to EazyBank Accounts Prod APIS"
+  contactDetails:
+    name: "Saritha Injeti"
+    email: "sarithainjeti@gmail.com"
+  phoneContact:
+    - 9182510534
+    - 9652653982

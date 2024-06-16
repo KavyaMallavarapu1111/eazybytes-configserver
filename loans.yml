@@ -1,0 +1,11 @@
+
+build:
+  version: 3.0
+loans:
+  message: "Welcome to Loans API dev environment"
+  contactDetails:
+    name: "Kavya Mallavarapu"
+    email: "kavyamallavarapu@gmail.com"
+  onPhoneSupport:
+    - 9182510534
+    - 9652653982

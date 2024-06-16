@@ -1,0 +1,11 @@
+
+build:
+    version: 3.0
+accounts:
+  message: "Welcome to EazyBank Accounts.."
+  contactDetails:
+    name: "Kavya Mallavarapu"
+    email: "kavyamallavarapu2@gmail.com"
+  phoneContact:
+    - 9182510534
+    - 9652653982

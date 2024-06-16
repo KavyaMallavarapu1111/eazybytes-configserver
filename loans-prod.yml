@@ -1,0 +1,11 @@
+
+build:
+  version: "1.0"
+loans:
+    message: "Welcome to Loans API PROD environment"
+    contactDetails:
+      name: "Saritha Injeti"
+      email: "sarithainjeti@gmail.com"
+    onPhoneSupport:
+      - 9182510534
+      - 9652653982

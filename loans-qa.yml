@@ -1,0 +1,11 @@
+
+loans:
+    message: "Welcome to Loans API QA environment"
+    contactDetails:
+      name: "Sachin Bore"
+      email: "sachinbore@gmail.com"
+    onPhoneSupport:
+      - 9182510534
+      - 9652653982
+build:
+  version: "2.0"

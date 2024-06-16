@@ -1,0 +1,11 @@
+
+build:
+  version: 1.0
+cards:
+  message: "Welcome to Cards Contact Team Details PROD"
+  contactDetails:
+    name: "Saritha Injeti"
+    email: "sarithainjeti@gmail.com"
+  forContactSupport:
+    - 9182510534
+    - 9652653982

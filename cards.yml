@@ -1,0 +1,11 @@
+
+build:
+  version: 3.0
+cards:
+  message: "Welcome to Cards Contact Team Details"
+  contactDetails:
+    name: "Kavya Mallavarapu"
+    email: "kavyamallavarapu@gmail.com"
+  forContactSupport:
+    - 9182510534
+    - 9652653982

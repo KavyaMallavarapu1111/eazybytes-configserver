@@ -1,0 +1,11 @@
+
+build:
+  version: 2.0
+cards:
+  message: "Welcome to Cards Contact Team Details QA"
+  contactDetails:
+    name: "Sachin Bore"
+    email: "sachinbore@gmail.com"
+  forContactSupport:
+    - 9182510534
+    - 9652653982
