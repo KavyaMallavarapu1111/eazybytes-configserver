@@ -2,7 +2,7 @@
 build:
   version: "1.0"
 loans:
-    message: "Welcome to Loans API PROD environment"
+    message: "Welcome to Loans API Production environment"
     contactDetails:
       name: "Saritha Injeti"
       email: "sarithainjeti@gmail.com"
