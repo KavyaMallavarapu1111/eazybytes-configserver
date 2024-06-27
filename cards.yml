@@ -2,7 +2,7 @@
 build:
   version: 3.0
 cards:
-  message: "Welcome to Cards LOCAL APIS Contact Team Details "
+  message: "Welcome to Cards Local APIS Contact Team Details "
   contactDetails:
     name: "Kavya Mallavarapu"
     email: "kavyamallavarapu@gmail.com"
