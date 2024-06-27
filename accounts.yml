@@ -2,7 +2,7 @@
 build:
     version: 3.0
 accounts:
-  message: "Welcome to EazyBank Accounts.."
+  message: "Welcome to EazyBank Accounts LOCAL APIS.."
   contactDetails:
     name: "Kavya Mallavarapu"
     email: "kavyamallavarapu2@gmail.com"
