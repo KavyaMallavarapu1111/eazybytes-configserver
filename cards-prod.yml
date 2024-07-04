@@ -2,7 +2,7 @@
 build:
   version: 1.0
 cards:
-  message: "Welcome to Cards Contact Team Details Production Webhook environment"
+  message: "Welcome to Cards Contact Team Details PROD Webhook environment"
   contactDetails:
     name: "Saritha Injeti"
     email: "sarithainjeti@gmail.com"
